@@ -1,0 +1,28 @@
+body
+{
+color: white;
+font-family: monospace;
+background: #C33764;
+    background: -webkit-linear-gradient(to bottom, #1D2671, #C33764);
+    background: linear-gradient(to bottom, #1D2671, #C33764);
+}
+
+.header_div
+{
+    background: #FEAC5E; 
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    
+    
+}
+
+#start
+{
+    background: #FEAC5E; 
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 20;
+}
